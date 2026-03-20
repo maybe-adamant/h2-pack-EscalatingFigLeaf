@@ -7,7 +7,7 @@ namespace = "adamant"
 name = "EscalatingFigLeaf"
 versionNumber = "1.0.0"
 description = "Dionysus Skip Chance starts at default value and increases by 13% after every encounter, resetting on biome start."
-websiteUrl = "https://github.com/maybe-adamant/h2-modpack-EscalatingFigLeaf"
+websiteUrl = "https://github.com/h2-modpack/h2-modpack-EscalatingFigLeaf"
 containsNsfwContent = false
 
 [package.dependencies]
