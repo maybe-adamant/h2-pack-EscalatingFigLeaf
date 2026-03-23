@@ -4,7 +4,7 @@
 
 ## Features
 
-- The chance to skip a non-essential encounter starts at the keepsake's default value.
+- The chance to skip a non-essential encounter starts at the keepsake's default value (37%)
 - The skip chance increases by 13% after every encounter you complete.
 - The skip chance resets back to the default value when you enter a new biome.
 
